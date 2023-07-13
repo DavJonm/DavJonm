@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Davi Mendes</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on a Back-end in python and a Full stack application in Rails](Private Repository)<br><br>👯 I’m looking to collaborate on  Django, Rails or React application<br><br>🌱 I’m currently learning I’m currently learning Ruby on Rails<br><br>How to reach me davi26030@gmail.com
+🔭 I’m currently working on a Back-end in python and a Full stack application in Rails](Private Repository)<br><br>👯 I’m looking to collaborate on  Django, Rails or React application<br><br>🌱 I’m currently learning Ruby on Rails<br><br>How to reach me davi26030@gmail.com
 
 
 # 💻 Tech Stack:
