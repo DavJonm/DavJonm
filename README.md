@@ -1,7 +1,5 @@
-# davjonm
-Config files for my GitHub profile.
 
-<h1 align="center">Hi 👋, I'm Davi</h1>
+<h1 align="center">Hi 👋, I'm Davi Mendes</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davijonm&label=Profile%20views&color=0e75b6&style=flat" alt="davijonm" /> </p>
@@ -18,7 +16,6 @@ Config files for my GitHub profile.
 
 - 📄 Know about my experiences [A little bit about me, Entrepreneur | Full Stack Developer 2x Meta certificated | 1x IBM certificated Some of the Languages and frameworks that I have experience: Backend: Python, Django, FastAPI, Pytest Docker, PostgreSQL, mySQL and Git Frontend: Javascript, React, Html, CSS/SASS and Bootstrap Full stack: Ruby and Rails](A little bit about me, Entrepreneur | Full Stack Developer 2x Meta certificated | 1x IBM certificated Some of the Languages and frameworks that I have experience: Backend: Python, Django, FastAPI, Pytest Docker, PostgreSQL, mySQL and Git Frontend: Javascript, React, Html, CSS/SASS and Bootstrap Full stack: Ruby and Rails)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
